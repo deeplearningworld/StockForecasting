@@ -7,7 +7,7 @@ This project demonstrates how to forecast stock prices using three different app
 - Prophet (Facebook’s additive model for time series forecasting)
 - LSTM (deep learning recurrent neural network)
 
-The project includes **data preprocessing, visualization, model training, evaluation, and comparison** between these models.
+The project includes  data preprocessing, visualization, model training, evaluation, and comparison between these models.
 
 ---
 
@@ -30,7 +30,7 @@ The project includes **data preprocessing, visualization, model training, evalua
 └── requirements.txt # Dependencies
 
 
-##Outputs
+# Outputs
 
 
 Comments: ARIMA and Prophet did not performed well with the presented dataset.With both approaches having negative Rˆ2 value. While LSTM, an AI architecture indicated for learn non-linear relationships and temporal dependencies may be the suitable one for this specific task.
